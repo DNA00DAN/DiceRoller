@@ -2,4 +2,5 @@
     <string name="app_name">DiceRoller</string>
     <string name="roll">ROLL</string>
     <string name="letsroll">Let\'s Roll</string>
+    <string name="dice_image_placeholder">dice_image_placeholder</string>
 </resources>
